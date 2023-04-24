@@ -14,7 +14,10 @@
 
 ## Conteúdo estudado
 * [Descrição do Projeto](#Descrição-do-Projeto)
-* [Autor](#Autor)
+* [Instalação](#Instalação)
+
+## Instalação
+`npm install --save styled-components`
 
 # :hammer: Funcionalidades do projeto
 
