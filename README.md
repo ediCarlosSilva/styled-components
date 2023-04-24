@@ -13,7 +13,7 @@
 </h4>
 
 ## Conteúdo estudado
-* [Descrição do Projeto](##Descrição-do-Projeto)
+* [Descrição do Projeto](#Descrição-do-Projeto)
 * [Autor](#Autor)
 
 # :hammer: Funcionalidades do projeto
