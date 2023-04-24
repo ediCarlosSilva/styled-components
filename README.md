@@ -1,4 +1,4 @@
-[Imagem capa do projeto Sobre curo de Styled-components com React](./imagens/capa.png)
+![Imagem capa do projeto Sobre curo de Styled-components com React](./imagens/capa.png)
 
 <h1 align="center"> Curso styled-components</h1>
 
