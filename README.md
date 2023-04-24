@@ -1,4 +1,5 @@
-# Curso styled-components
+<h1 align="center"> Curso styled-components</h1>
 
-[documentação](https://styled-components.com/docs)
+## Projeto para desenvolver os conhecimentos de styled-componentes [documentação](https://styled-components.com/docs)
+
 
