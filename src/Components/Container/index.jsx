@@ -4,6 +4,8 @@ import React from "react";
 import Titulo from "../Titulo";
 import Conta from "../Conta";
 
+import Extrato from '../Extrato'
+
 const Container = styled.div`
   background-color: #f1f1f1;
   min-height: 90vh;
@@ -26,7 +28,7 @@ export default () => {
       <Titulo>Olá Fulano!</Titulo>
       <Conteudo>
         <Conta />
-        <Conta />
+        <Extrato />
       </Conteudo>
     </Container>
   );
