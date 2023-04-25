@@ -28,6 +28,9 @@
 * import de font no index.html da pasta public ( recomendado pela documentação do styled-components)
 * usando variáveis `components/UI/variaveis.js`
 
+### Aula 3
+* Refatoração
+
 ## Instalação
 `npm install --save styled-components`
 
