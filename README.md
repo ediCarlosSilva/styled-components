@@ -37,7 +37,7 @@
 
 # :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
+- `Extrato`: Lista os gastos com suas de type, value, date, from (Onde foi o gasto)
 
 ## 📁 Acesso ao projeto
 
