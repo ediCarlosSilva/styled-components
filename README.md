@@ -25,6 +25,7 @@
 ### Aula 2
 * GlobalStyle
 * import de font no index.html da pasta public ( recomendado pela documentação do styled-components)
+* usando variáveis `components/UI/variaveis.js`
 
 ## Instalação
 `npm install --save styled-components`
