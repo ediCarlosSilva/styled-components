@@ -14,7 +14,13 @@
 
 ## Conteúdo estudado
 * [Descrição do Projeto](#Descrição-do-Projeto)
+
+### Aula 1
 * [Instalação](#Instalação)
+* Como instalar o Styled Components dentro do projeto
+* Como criar um componente com o Styled Components
+* Sobre a geração automática de classes
+* Como transferir código CSS para meu componente estilizado
 
 ## Instalação
 `npm install --save styled-components`
