@@ -22,6 +22,10 @@
 * Sobre a geração automática de classes
 * Como transferir código CSS para meu componente estilizado
 
+### Aula 2
+* GlobalStyle
+* import de font no index.html da pasta public ( recomendado pela documentação do styled-components)
+
 ## Instalação
 `npm install --save styled-components`
 
