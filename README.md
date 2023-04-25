@@ -30,6 +30,7 @@
 
 ### Aula 3
 * Refatoração
+* Herança - como é aplicado o conceito de herança em styled-components
 
 ## Instalação
 `npm install --save styled-components`
