@@ -9,7 +9,7 @@ const Item = styled.div`
         font-weight: bold;
     }
 `
-
+// eslint-disable-next-line
 export default ({ type, from, value }) => {
     return (
         <Item>

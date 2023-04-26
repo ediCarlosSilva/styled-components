@@ -41,7 +41,7 @@
 ### Aula 5
 * Como organizar os temas do nosso projeto
 * O que é o ThemeProvider do styledComponents
-* Como alterar cores de icones SVG usando filters
+* Como alterar cores de icones SVG usando filters.
 
 ## Instalação
 `npm install --save styled-components`
@@ -53,7 +53,7 @@
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/ediCarlosSilva/styled-components) ou [baixá-lo](https://github.com/ediCarlosSilva/styled-components/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/ediCarlosSilva/styled-components) ou [baixá-lo](https://github.com/ediCarlosSilva/styled-components/archive/refs/heads/main.zip) ou ele [hospedado no vercel]()
 
 ## 🛠️ Abrir e rodar o projeto
 

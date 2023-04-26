@@ -13,7 +13,7 @@ const Items = styled.div`
     padding: 10px;
     font-size: 12px;
 `
-
+// eslint-disable-next-line
 export default (props) => {
     return <Items>
         {ImageFilter(props.type)}

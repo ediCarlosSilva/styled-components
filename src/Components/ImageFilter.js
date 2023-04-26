@@ -6,7 +6,7 @@ import transporte from '../assets/images/transporte.svg';
 import utilidades from '../assets/images/utilidades.svg';
 import {IconeTema} from './UI';
 
-
+// eslint-disable-next-line
 export default (type) => {
     const Images = {
         Restaurante: <IconeTema src={alimentacao} alt="Restaurante" />,
