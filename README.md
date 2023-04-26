@@ -38,12 +38,18 @@
 * Utilizando styled components apenas para estilização
 * Porque evitar o uso de switch-case
 
+### Aula 5
+* Como organizar os temas do nosso projeto
+* O que é o ThemeProvider do styledComponents
+* Como alterar cores de icones SVG usando filters
+
 ## Instalação
 `npm install --save styled-components`
 
 # :hammer: Funcionalidades do projeto
 
 - `Extrato`: Lista os gastos com suas de type, value, date, from (Onde foi o gasto)
+- `Troca de Tema`: Botão para trocar entre tema claro e escuro
 
 ## 📁 Acesso ao projeto
 
