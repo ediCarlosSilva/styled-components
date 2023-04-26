@@ -6,10 +6,10 @@
 
 ### Projeto para desenvolver os conhecimentos de [styled-componentes](https://styled-components.com/docs). Documentar o conhecimentos adquiridos ao longo da jornada.
 
-![Badge em Desenvolvimento](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO%20-green&style=social) 
+![Badge concluído](https://img.shields.io/badge/STATUS-CONCLUÍDO-green&style=social) 
 
 <h4 align="center">
-    :construction:  Projeto em construção  :construction:
+    :construction:  Projeto concluído  :construction:
 </h4>
 
 ## Conteúdo estudado
