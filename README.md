@@ -53,7 +53,7 @@
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/ediCarlosSilva/styled-components) ou [baixá-lo](https://github.com/ediCarlosSilva/styled-components/archive/refs/heads/main.zip) ou ele [hospedado no vercel]()
+Você pode [acessar o código fonte do projeto inicial](https://github.com/ediCarlosSilva/styled-components) ou [baixá-lo](https://github.com/ediCarlosSilva/styled-components/archive/refs/heads/main.zip) ou ele [hospedado no vercel](https://styled-components-black.vercel.app/)
 
 ## 🛠️ Abrir e rodar o projeto
 
