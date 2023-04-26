@@ -1,27 +1,25 @@
 import React from 'react';
-import {Box, Botao} from '../UI';
+import { Box, Botao } from '../UI';
 import { extratoLista } from '../../info';
+import Items from '../Items';
 
 console.log(extratoLista);
 
 const Extrato = () => {
-    return (
-        <Box>
+  return (
+    <Box>
 
-            {
-                extratoLista.updates.map(({id, type, from, value, date}) => {
-                    return (
-                        <div key={id}>
-                            <div>{type}</div>
-                            <div>{from}</div>
-                        </div>
-                    )
-                })
-            }
+      {
+        extratoLista.updates.map(({ id, type, from, value, date }) => {
+          return (
+            <Items key={id} type={type} from={from} value={value} date={date} />
+          )
+        })
+      }
 
-            <Botao>Ver Mais</Botao>
-        </Box>
-    )
+      <Botao>Ver Mais</Botao>
+    </Box>
+  )
 }
 
 export default Extrato;
