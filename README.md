@@ -32,6 +32,12 @@
 * Refatoração
 * Herança - como é aplicado o conceito de herança em styled-components
 
+### Aula 4
+* Como compor elementos estilizados para criar novas telas
+* Vantagens de usar componentes para criar layouts
+* Utilizando styled components apenas para estilização
+* Porque evitar o uso de switch-case
+
 ## Instalação
 `npm install --save styled-components`
 
